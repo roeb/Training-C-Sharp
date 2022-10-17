@@ -19,34 +19,34 @@ Idealerweise bereits Erfahrung in einer Programmiersprache
 
 ## Agenda
 
-Einführung in die Schulung
-Das .NET Framework & Geschichte
-Werkzeuge zur Entwicklung
-Die Syntax
-Typen
-Array
-Variablen & Expressions
-Nullables
-If / Switch / For / Foreach Statements
-Namespaces
-Klassen, Structs und Vererbung
-Zugriffsmodifizierer
-Interfaces
-Enaums
-Generics
-Delegates, Events und Lambdas
-Fehlerbehandlung
-Listen und Enumerable
-Extension Methods
-Anonyme Typen
-Tupel & Records
-Patterns
-LINQ
-Dynamisches Binding
-Opreator Overloading
-Attribute
-Async & Await
-XML Dokumenation im Code
+- Einführung in die Schulung
+- Das .NET Framework & Geschichte
+- Werkzeuge zur Entwicklung
+- Die Syntax
+- Typen
+- Array
+- Variablen & Expressions
+- Nullables
+- If / Switch / For / Foreach Statements
+- Namespaces
+- Klassen, Structs und Vererbung
+- Zugriffsmodifizierer
+- Interfaces
+- Enaums
+- Generics
+- Delegates, Events und Lambdas
+- Fehlerbehandlung
+- Listen und Enumerable
+- Extension Methods
+- Anonyme Typen
+- Tupel & Records
+- Patterns
+- LINQ
+- Dynamisches Binding
+- Opreator Overloading
+- Attribute
+- Async & Await
+- XML Dokumenation im Code
 
 ### Bonus:
 
