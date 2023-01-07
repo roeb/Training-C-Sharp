@@ -1,4 +1,4 @@
-# Schulung: C# grundlagen
+# Schulung: C# Grundlagen
 ## Ziel der Schulung
 
 Vermittlung der Grundlagen der Programmiersprache C#. Das Ziel ist es, dass die Teilnehmer nach der Schulung in der Lage sind, einfache C#-Anwendungen zu entwickeln und die Sprache selbstständig anwenden können.
