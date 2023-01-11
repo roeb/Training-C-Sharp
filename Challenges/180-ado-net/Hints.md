@@ -31,7 +31,6 @@ INNER JOIN [SalesLT].Address AS a
 ON sh.ShipToAddressID = a.AddressID
 WHERE sh.CustomerID = @CustomerID
 ```
-```
 
 ### Details einer Bestellung laden
 
@@ -44,7 +43,6 @@ FROM [SalesLT].[SalesOrderDetail] as sd
 JOIN [SalesLT].[Product] as p
 ON sd.ProductID = p.ProductID
 WHERE sd.SalesOrderID = @SalesOrderID
-```
 ```
 
 ### Anlegen eines neuen Produkts
